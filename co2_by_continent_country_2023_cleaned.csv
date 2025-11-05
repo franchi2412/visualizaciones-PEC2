@@ -1,0 +1,78 @@
+iso_code,Country,CO2_Emissions,Continent
+DZA,Algeria,178.133,Africa
+ARG,Argentina,195.806,America
+AUS,Australia,382.972,Oceania
+AUT,Austria,58.578,Europe
+BEL,Belgium,83.368,Europe
+BLZ,Belize,0.668,America
+BOL,Bolivia,23.359,America
+BRA,Brazil,486.47,America
+CAN,Canada,549.299,America
+CHL,Chile,77.288,America
+CHN,China,11902.503,Asia
+COL,Colombia,105.239,America
+CUB,Cuba,23.097,America
+CZE,Czechia,85.624,Europe
+DNK,Denmark,27.265,Europe
+DOM,Dominican Republic,32.02,America
+ECU,Ecuador,43.173,America
+EGY,Egypt,269.006,Africa
+SLV,El Salvador,8.23,America
+ETH,Ethiopia,15.227,Africa
+FJI,Fiji,1.146,Oceania
+FIN,Finland,31.622,Europe
+FRA,France,272.476,Europe
+DEU,Germany,596.151,Europe
+GHA,Ghana,19.647,Africa
+GRC,Greece,55.196,Europe
+GTM,Guatemala,20.382,America
+GUY,Guyana,3.545,America
+HTI,Haiti,3.522,America
+HND,Honduras,11.042,America
+HUN,Hungary,40.19,Europe
+IND,India,3062.324,Asia
+IDN,Indonesia,733.224,Asia
+IRN,Iran,817.88,Asia
+IRL,Ireland,34.433,Europe
+ISR,Israel,59.489,Asia
+ITA,Italy,313.461,Europe
+JAM,Jamaica,7.649,America
+JPN,Japan,988.785,Asia
+KEN,Kenya,21.531,Africa
+MYS,Malaysia,288.824,Asia
+MEX,Mexico,482.623,America
+MAR,Morocco,68.668,Africa
+NLD,Netherlands,118.668,Europe
+NZL,New Zealand,30.119,Oceania
+NIC,Nicaragua,5.588,America
+NGA,Nigeria,128.54,Africa
+NOR,Norway,38.901,Europe
+PAK,Pakistan,200.667,Asia
+PAN,Panama,14.018,America
+PNG,Papua New Guinea,8.322,Oceania
+PRY,Paraguay,8.139,America
+PER,Peru,55.864,America
+PHL,Philippines,154.579,Asia
+POL,Poland,289.282,Europe
+PRT,Portugal,37.228,Europe
+ROU,Romania,68.239,Europe
+SAU,Saudi Arabia,736.205,Asia
+SEN,Senegal,11.901,Africa
+SGP,Singapore,49.253,Asia
+ZAF,South Africa,401.893,Africa
+KOR,South Korea,577.417,Asia
+ESP,Spain,221.616,Europe
+SDN,Sudan,20.001,Africa
+SUR,Suriname,2.647,America
+SWE,Sweden,36.556,Europe
+CHE,Switzerland,32.737,Europe
+TZA,Tanzania,18.066,Africa
+THA,Thailand,264.389,Asia
+TTO,Trinidad and Tobago,34.318,America
+TUR,Turkey,432.077,Asia
+UGA,Uganda,5.614,Africa
+GBR,United Kingdom,305.146,Europe
+USA,United States,4911.391,America
+URY,Uruguay,7.866,America
+VEN,Venezuela,99.569,America
+VNM,Vietnam,334.726,Asia
